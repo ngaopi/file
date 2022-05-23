@@ -1,0 +1,10 @@
+badminton
+cricket
+hockey
+volleyball
+table tennis
+playing
+eating
+sleeping
+working
+walking

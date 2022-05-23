@@ -1,0 +1,3 @@
+my name is ringnim
+im learning python
+my current topic is file
